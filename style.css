@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    h1 {
+        font-family: 'Playfair Display', serif;
+    }
+    .photo {
+        width: 200px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+    }
+    background: linear-gradient(to right, #376db3, #fad0c4);
+}
+
+.container {
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    background: white;
+    color: #4a36c0;
+    cursor: pointer;
+}
